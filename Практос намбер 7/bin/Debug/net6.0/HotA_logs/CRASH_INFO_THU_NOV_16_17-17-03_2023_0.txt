@@ -1,0 +1,95 @@
+[HotA CRASH INFO file]
+
+Time: Thu Nov 16 17:17:03 2023
+
+HotA.dll version: 1.6.1
+HotA.dll test version: 0
+
+HotA_Settings.ini version: 0.0.0.0
+Test features disabled
+
+HotA internal map version: 3
+HotA internal savegame version: 5
+HD version: without HD
+
+Exception
+{
+   Module:  hota.dll
+   Adress:      0x7BC100A3
+   Code:        EXCEPTION_ACCESS_VIOLATION
+   Flags:       0x00000000
+   Information: read of address: 0x00000000
+}
+
+Call stack
+{
+                      ? called from before 0x00000000
+}
+
+Context
+{
+   EAX: 0x0019FE24
+   ECX: 0x00000000
+   EDX: 0x0000000C
+   EBX: 0x00957D40
+   ESP: 0x0019FDE4
+   EBP: 0x00000000
+   ESI: 0x00957D40
+   EDI: 0x00000000
+}
+
+Modules
+{
+
+   \\ main module:
+   0x00400000: h3hota.exe  (size: 0x002CB000, entry point: 0x00639C00)
+   
+   \
+}
+
+Command Line
+{
+   "C:\Games\Heroes3_HotA\h3hota.exe" 
+}
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+{
+   ProductName:    Windows 10 Home
+   CurrentVersion: 6.3
+   BuildLab:       19041.vb_release.191206-1406
+}
+
+GetVersionEx
+{
+   PlatformId  = 2
+   Version:      6.2
+   Build:        9200
+   CSDVersion  = 
+   ProductType = 1
+   SuiteMask   = 768
+}
+
+Some ingame values
+{
+   FullScreen Mode = 0
+   Game Type       = 0
+   Network Game    = 0
+
+             Me ID = 0
+  Active Player ID = 0
+     Last RMG Seed = 0
+}
+
+Files
+{
+   \Практос намбер 7.deps.json
+   \Практос намбер 7.dll
+   \Практос намбер 7.exe
+   \Практос намбер 7.pdb
+   \Практос намбер 7.runtimeconfig.json
+}
+
+HKLM\SOFTWARE\New World Computing\Heroes of Might and Magic® III\1.0
+{
+}
+

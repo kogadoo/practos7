@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\bin\Debug\net6.0\Практос намбер 7.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\bin\Debug\net6.0\Практос намбер 7.deps.json
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\bin\Debug\net6.0\Практос намбер 7.runtimeconfig.json
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\bin\Debug\net6.0\Практос намбер 7.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\bin\Debug\net6.0\Практос намбер 7.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\Практос намбер 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\Практос намбер 7.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\Практос намбер 7.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\Практос намбер 7.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\Практос намбер 7.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\refint\Практос намбер 7.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\Практос намбер 7.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\Практос намбер 7.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос намбер 7\Практос намбер 7\obj\Debug\net6.0\ref\Практос намбер 7.dll
